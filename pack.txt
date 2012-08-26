@@ -1,2 +1,1 @@
-Frenden's texture pack. Comes in three varites: Cartoon, Detailed, Simple.
-
+Frenden's texture pack. Updated to 1.3.2
